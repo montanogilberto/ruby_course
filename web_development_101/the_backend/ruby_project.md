@@ -35,6 +35,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/ruby_course
 * [Kern's Solution](https://github.com/Kelel1/learn_ruby)
 * [Smetanca52's Solution](https://github.com/Smetanca52/learn_ruby_1)
 * [Malaika's Solution](https://github.com/malaikaMI/ruby_project)
+* [Gilberto's Solution] (https://github.com/montanogilberto/learn-ruby)
 * [Mohamed Elattar's solutions](https://github.com/mohamed-elattar/learn_ruby)
 * [Vibhor Kainth's solutions](https://gitlab.com/vkainth/ruby-exercises)
 * [rvalentin1010's solutions](https://github.com/rvalentin1010/learn_ruby)
